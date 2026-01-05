@@ -4,3 +4,6 @@
 *.tfstate.backup
 .terraform.lock.hcl
 
+#OS files
+.DS_Store
+Thumbs.db
