@@ -46,3 +46,4 @@ A layered network security architecture enforcing:
 - Explicit deny rules
 - Subnet-level isolation
 
+# LAB2-aws-network-security-lab
