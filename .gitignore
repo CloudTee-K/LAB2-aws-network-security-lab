@@ -1,9 +1,6 @@
-# Ignore Terraform local files
+cat <<EOF >> .gitignore
 .terraform/
 *.tfstate
-*.tfstate.backup
-.terraform.lock.hcl
+*.tfstate.*
+EOF
 
-#OS files
-.DS_Store
-Thumbs.db
