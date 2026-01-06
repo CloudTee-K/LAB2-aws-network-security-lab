@@ -2,5 +2,7 @@ cat <<EOF >> .gitignore
 .terraform/
 *.tfstate
 *.tfstate.*
+*.pem
+*.log
 EOF
 
